@@ -19,6 +19,7 @@
   left: 0;
   /* Prevent artifacts in Mozilla Firefox: */
   -moz-backface-visibility: hidden;
+  border: 5px solid white;
 }
 .blueimp-gallery > .slides > .slide > .slide-content {
   margin: auto;
